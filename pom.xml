@@ -146,9 +146,9 @@
     </plugins>
   </build>
   <scm>
-    <connection>scm:git:git://github.com/sonatype/nexus-book.git</connection>
-    <url>scm:git:git://github.com/sonatype/nexus-book.git</url>
-    <developerConnection>scm:git:git://github.com/sonatype/nexus-book.git</developerConnection>	
+    <connection>scm:git:git://github.com/jaxzin/nexus-book.git</connection>
+    <url>scm:git:git://github.com/jaxzin/nexus-book.git</url>
+    <developerConnection>scm:git:git://github.com/jaxzin/nexus-book.git</developerConnection>	
   </scm>
   <distributionManagement>
     <repository>
